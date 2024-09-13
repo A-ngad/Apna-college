@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Linked List",
+    "topicId": 1,
+    "image": "https://prepbytes-misc-images.s3.ap-south-1.amazonaws.com/assets/1644309661084-Linked%20list-03.png",
+    "subtopics": [
+      {
+        "subTopicId": 1,
+        "name": "Introduction to Linked List",
+        "video_url": "https://www.youtube.com/embed/Crqgl10aIGQ?si=c_pouM9nW0gSZmo9",
+        "problems": [1, 2]
+      },
+      {
+        "subTopicId": 2,
+        "name": "How to reverse a Linked list",
+        "video_url": "https://www.youtube.com/embed/t7YaoQOFXzk?si=h4wZxcB51vX1G0lo",
+        "problems": [3, 4]
+      },
+      {
+        "subTopicId": 3,
+        "name": "Most Important Linked List questions for placement",
+        "video_url": "https://www.youtube.com/embed/cL4gHVuFOvk?si=sL9U3zUBhY92ZQuk",
+        "problems": [5, 6]
+      }
+    ]
+  },
+  {
+    "name": "Array",
+    "topicId": 2,
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20240404124326/Array-data-structure-2.webp",
+    "subtopics": [
+      {
+        "name": " Introduction to Arrays in C++ | Guaranteed Placement Course",
+        "video_url": "https://www.youtube.com/embed/PyTK_g1l8V8?si=d2w4iC0fblWF-SI9",
+        "subTopicId": 4
+      },
+      {
+        "name": "Searching in Arrays | Linear and Binary Search",
+        "video_url": "https://www.youtube.com/embed/13ocRMSJy5M?si=wHBILS_8ms5GKco5",
+        "subTopicId": 5
+      },
+      {
+        "name": "Sorting in Arrays | Selection Sort ",
+        "video_url": "https://www.youtube.com/embed/dQa4A2Z0_Ro?si=QVx9hzKQuiN_p0TP",
+        "subTopicId": 6,
+        "problems": [8, 9]
+      }
+    ]
+  },
+  {
+    "name": "Binary Tree",
+    "topicId": 3,
+    "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*jHLRu-DNn1455xbshQzpMQ.png",
+    "subtopics": [
+      {
+        "subTopicId": 7,
+        "name": "Binary Tree Introduction ",
+        "video_url": "https://www.youtube.com/embed/_jKa4gycZTw?si=EtmO7M5E_2VT4VOH"
+      },
+      {
+        "subTopicId": 8,
+        "name": "Binary Tree Traversals| Preorder, Inorder, Postorder Traversal ",
+        "video_url": "https://www.youtube.com/embed/67zlUtAr2LE?si=SebffnKbcvtlDb6S",
+        "problems": [10, 11, 12]
+      }
+    ]
+  }
+]
